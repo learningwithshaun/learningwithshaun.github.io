@@ -4,7 +4,7 @@
 ---
 
 ## 👩‍💻 Profile
-ICT Application Development student experienced in building Java and web-based applications through team projects. Skilled in object-oriented programming, backend development, and collaborative development using Git. Seeking a software development work-integrated learning (WIL) to gain real-world experience.
+I am a third-year ICT Application Development student with experience building Java and web-based applications through team projects. I am skilled in object-oriented programming, backend development, and collaborative work using Git. I am seeking a software development work-integrated learning (WIL) opportunity to gain real-world experience.
 
 ---
 
