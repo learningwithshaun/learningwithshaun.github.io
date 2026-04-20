@@ -96,6 +96,8 @@ I am a third-year ICT Application Development student with experience building J
 <video width="600" controls src="Mock Interview Video.mp4">
 </video>  
 
+---
+
 ### Reflection on coding my CV using Markdown (STAR Method)  
 
 ### Situation  
