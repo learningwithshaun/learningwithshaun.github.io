@@ -44,14 +44,14 @@ I also supported Vic3e's media work, including filming and editing a Lulem promo
 
 ### Documentation and Content
 
-- <img src="assets/icons/technology/wordpress.svg" width="24" height="24" alt="WordPress logo" /> **WordPress** — Hosts and manages the Zuke documentation site.
-- <img src="assets/icons/technology/elementor.svg" width="24" height="24" alt="Elementor logo" /> **Elementor** — Used to design and build the landing page and user journey pages.
+- <img src="assets/project-overview/icons/technology/wordpress.svg" width="24" height="24" alt="WordPress logo" /> **WordPress** — Hosts and manages the Zuke documentation site.
+- <img src="assets/project-overview/icons/technology/elementor.svg" width="24" height="24" alt="Elementor logo" /> **Elementor** — Used to design and build the landing page and user journey pages.
 
 ### Digital Signage and Hardware
 
-- <img src="assets/icons/technology/raspberrypi.svg" width="24" height="24" alt="Raspberry Pi logo" /> **Raspberry Pi** — Runs Lulem on retail TVs and was configured as part of the project.
-- <img src="assets/icons/technology/paystack.svg" width="24" height="24" alt="Paystack logo" /> **Paystack** — Provides the payment QR codes displayed by Lulem.
-- <img src="assets/icons/technology/youtube.svg" width="24" height="24" alt="YouTube logo" /> **YouTube** — Supplies the videos played between Lulem's advertising sessions.
+- <img src="assets/project-overview/icons/technology/raspberrypi.svg" width="24" height="24" alt="Raspberry Pi logo" /> **Raspberry Pi** — Runs Lulem on retail TVs and was configured as part of the project.
+- **Paystack** — Provides the payment QR codes displayed by Lulem.
+- <img src="assets/project-overview/icons/technology/youtube.svg" width="24" height="24" alt="YouTube logo" /> **YouTube** — Supplies the videos played between Lulem's advertising sessions.
 
 <sub>Technology logos sourced from <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://devicon.dev/">Devicon</a>.</sub>
 
