@@ -32,9 +32,9 @@
 | Name | Role | Key Responsibilities |
 |---|---|---|
 | Amanda Msutu | Developer Intern / Agile Lead (own backlog) | Builds the Zuke docs site; supports Lulem development and Raspberry Pi configuration; designs hardware accessories (fan case); keeps the backlog, logbook and monthly reports up to date |
-| [Victory Opeolu] | Mentor / Product Owner | Assigns and prioritises work; approves deliverables; gives feedback; signs monthly reports |
-| [Amanda Msutu & Victory Opeolu] | Lulem Developer(s) | Lulem architecture and features; technical guidance on the application |
-| [Amanda Msutu & Victory Opeolu] | Media & Events Team | Camera equipment, editorial direction and event requirements for filming and summit work |
+| Victory Opeolu | Mentor / Product Owner | Assigns and prioritises work; approves deliverables; gives feedback; signs monthly reports |
+| Amanda Msutu & Victory Opeolu | Lulem Developer(s) | Lulem architecture and features; technical guidance on the application |
+| Amanda Msutu & Victory Opeolu | Media & Events Team | Camera equipment, editorial direction and event requirements for filming and summit work |
 
 ## 3. Ways of Working
 
@@ -105,8 +105,8 @@
 
 | Name | Signature / Agreement |
 |---|---|
-| Amanda Msutu | | A.Msutu
-| [Mentor name] | | V.Opeolu
+| Amanda Msutu | A.Msutu |
+| Victory Opeolu | V.Opeolu |
 
 ---
 
