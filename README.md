@@ -59,7 +59,7 @@ I also supported Vic3e's media work, including filming and editing a Lulem promo
 ## Project Links
 
 - **Zuke Documentation Site:** [docs-staging.zuke.co.za](https://docs-staging.zuke.co.za/)
-- **Product Website:** [zuke.co.za](https://zuke.co.za/)  ``````````````````````````````````````
+- **Product Website:** [zuke.co.za](https://zuke.co.za/)
 
 
 ## Portfolio Sections
