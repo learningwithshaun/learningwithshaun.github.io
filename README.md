@@ -1,144 +1,80 @@
-# Amanda Msutu
-### Software Developer
+# Industry Placement GitHub Portfolio
 
----
+## Vic3e Media and Technology Solutions — Zuke Documentation Site & Lulem
 
-## 👩‍💻 Profile
-I am a third-year ICT Application Development student with experience building Java and web-based applications through team projects. I am skilled in object-oriented programming, backend development, and collaborative work using Git. I am seeking a software development work-integrated learning (WIL) opportunity to gain real-world experience.
+A portfolio of project evidence and reflections for **Project Presentation 3 (PRP372S)**.
 
----
+## Student Details
 
-## 💼 Work & Project Experience
+- **Name and Surname:** Amanda Msutu
+- **Student Number:** 222428600
+- **Institution:** Cape Peninsula University of Technology
+- **Course:** Diploma in ICT Applications Development
+- **Module:** Project Presentation 3
+- **Module Code:** PRP372S
+- **Host Employer:** Vic3e Media and Technology Solutions (Information Technology Department)
 
-### 🟢 KasiPay — *Group Leader*  
-**Jan 2026**
-- Led a development team during a Lightning Bootcamp and Hackathon, coordinating tasks and project delivery.  
-- Guided project development from concept to functional prototype using agile teamwork principles.  
-- Strengthened leadership and communication skills while managing team collaboration and milestones.  
+## Project Overview
 
----
+This portfolio documents my Industry Placement, completed between 01 July and 30 November, with a focus on my work at Vic3e from August. The work was organised into user stories, a product backlog and weekly sprints, and tracked in an Agile Logbook.
 
-### 🟢 LearnHub — *Java Study Group Platform*  
-**Nov 2025**
-- Developed a full-stack Java application connecting students by course and location.  
-- Implemented authentication, study group management, and messaging systems.  
-- Applied object-oriented programming principles and backend logic.  
-- Collaborated with team members across UI, backend, and database roles.  
+I worked on two projects in Vic3e's IT department:
 
----
+- **Zuke Documentation Site** — a WordPress documentation site that gives users step-by-step guidance for zuke.co.za, starting with the landing page and the sign-up journey.
+- **Lulem** — a digital-signage application for retail TVs. It displays image and video advertisements, shows Paystack QR codes for payments, and plays YouTube videos between ad sessions. It runs on a Raspberry Pi, which I configured and protected with a custom 3D-printed fan case.
 
-### 🟢 KeepITBlue — *Community and Conservation Web Platform*  
-**Oct 2024**
-- Collaborated in a team of six to develop an interactive web platform.  
-- Built front-end components using HTML, CSS, and JavaScript.  
-- Contributed to user interface design and functionality improvements.  
-- Supported digital solutions for ocean conservation initiatives.  
+I also supported Vic3e's media work, including filming and editing a Lulem promo video and helping with summit preparation.
 
----
+<p align="left">
+  <a href="assets/project-overview/zuke_docs_landing_page.png"><img src="assets/project-overview/zuke_docs_landing_page.png" alt="Zuke documentation site landing page" width="100%"></a>
+</p>
 
-## 🎓 Education
+<p align="left"><sub>Zuke documentation site landing page — designed and built with WordPress and Elementor</sub></p>
 
-### Sea Point High School  
-**National Senior Certificate (Matric)**  
-*2021*
+## Technology Stack
 
-### Cape Peninsula University of Technology  
-**Diploma in ICT Application Development**  
-*Present*
+### Documentation and Content
 
----
+- <img src="assets/icons/technology/wordpress.svg" width="24" height="24" alt="WordPress logo"> **WordPress** — Hosts and manages the Zuke documentation site.
+- <img src="assets/icons/technology/elementor.svg" width="24" height="24" alt="Elementor logo"> **Elementor** — Used to design and build the landing page and user journey pages.
 
-## 🛠️ Skills
+### Digital Signage and Hardware
 
-- Java  
-- HTML  
-- CSS  
-- JavaScript  
-- PHP  
-- Spring Boot  
-- Vue.js  
-- Laravel  
-- Git  
+- <img src="assets/icons/technology/raspberrypi.svg" width="24" height="24" alt="Raspberry Pi logo"> **Raspberry Pi** — Runs Lulem on retail TVs; configured as part of the project.
+- <img src="assets/icons/technology/paystack.svg" width="24" height="24" alt="Paystack logo"> **Paystack** — Provides the payment QR codes displayed by Lulem.
+- <img src="assets/icons/technology/youtube.svg" width="24" height="24" alt="YouTube logo"> **YouTube** — Supplies the videos played between Lulem's advertising sessions.
 
----
+<sub>Technology logos sourced from [Simple Icons](https://simpleicons.org/) and [Devicon](https://devicon.dev/).</sub>
 
-## 📞 Contact
+## Project Links
 
-- 📱 Phone: (+27) 61-484-2617  
-- 📧 Email: 222428600@mycput.ac.za  
-- 📍 Address: 10 Caledon Street, Cape Town  
+- **Zuke Documentation Site:** [Add link]
+- **Product Website:** [zuke.co.za](https://zuke.co.za)
+- **Project Board:** [Add link]
 
----
+## Portfolio Sections
 
-## 🔗 Links
+### <img src="assets/icons/agile-team-charter.svg" width="24" height="24" alt=""> 1. Agile Team Charter
 
-- [LinkedIn](https://www.linkedin.com/in/amanda-msutu-607b68348)  
-- [GitHub](https://github.com/learningwithshaun)  
+- [View Evidence](01-agile-team-charter/evidence.md)
+- [Reflection](01-agile-team-charter/reflection.md)
 
----
+### <img src="assets/icons/user-stories-and-tasks.svg" width="24" height="24" alt=""> 2. User Stories and Tasks
 
-## 📌 References
+- [View Evidence](02-user-stories-and-tasks/evidence.md)
+- [Reflection](02-user-stories-and-tasks/reflection.md)
 
-### Phamela Mhlaba  
-- 📞 Phone: 075-324-6472  
-- 📧 Email: phamelamhlaba@gmail.com  
-- 🏢 BitDevs / Mentor  
+### <img src="assets/icons/product-backlog.svg" width="24" height="24" alt=""> 3. Product Backlog
 
----
+- [View Evidence](03-product-backlog/evidence.md)
+- [Reflection](03-product-backlog/reflection.md)
 
-### Simangaliso Ntuli  
-- 📞 Phone: 071-271-9018  
-- 📧 Email: 230070728@mycput.ac.za  
-- 🏢 CPUT / Mentor   
+### <img src="assets/icons/sprint-backlog.svg" width="24" height="24" alt=""> 4. Sprint Backlog
 
-## 🎥 Mock Interview Video
+- [View Evidence](04-sprint-backlog/evidence.md)
+- [Reflection](04-sprint-backlog/reflection.md)
 
-<video width="600" controls src="Mock Interview Video.mp4">
-</video>  
+### <img src="assets/icons/agile-logbook.svg" width="24" height="24" alt=""> 5. Agile Logbook
 
----
-
-### Reflection on coding my CV using Markdown (STAR Method)  
-
-### Situation  
-
-As part of my GitHub portfolio project for Module 3 in the study guide, I was required to create and present my CV using Markdown. This was a new experience for me since I was more familiar with traditional tools like Microsoft Word and Canva for creating CVs. 
-
-### Task  
-My task was to design a professional and well-structured CV using Markdown syntax while ensuring it aligns with the project presentation 3 study guide guidelines. I needed to make sure the document was readable, properly formatted, and suitable for showcasing on GitHub.  
-
-### Action  
-
-I started by learning the basics of Markdown, such as headings, lists, bold/italic text, and links. I then structured my CV into clear sections like personal details, education, skills, and experience. I paid attention to consistency in formatting and used simple Markdown features to keep the document clean and professional. I also previewed my CV multiple times to ensure it displayed correctly on GitHub.  
-
-### Result  
-
-As a result, I was able to successfully create a neat and professional CV using Markdown. This experience improved my understanding of lightweight markup languages and showed me how developers document and present information in a technical environment. I also gained confidence in using GitHub as a platform to showcase my work, which will be valuable for my future career in software development.  
-
-## Reflection on Mock Interview Video Experience (STAR Method)
-
-### Situation
-As part of my coursework, I was required to complete a mock interview video where I simulated a real job interview. This involved selecting and answering questions from different categories, including behavioral, situational, technical, and general questions. It was not easy because it was very nerve-wracking, but I am grateful for the real-world tech interview experience.
-
-### Task
-My task was to prepare and record a professional video where I confidently answered four interview questions using appropriate techniques like the STAR method. I needed to demonstrate clear communication, structured thinking, and professionalism while presenting myself as a suitable candidate.
-
-### Action
-I began by reviewing the subject guide to understand the expectations and types of questions. I carefully selected one question from each category and prepared my answers by reflecting on my past experiences(project) and skills. For the behavioral and situational questions, I used the STAR method to structure my responses clearly. I practiced multiple times to improve my confidence and reduce nervousness. I also ensured I recorded the video in a quiet, well-lit environment and dressed professionally to simulate a real interview setting.
-
-### Result
-As a result, I was able to produce a well-structured and professional mock interview video. This experience helped me improve my communication skills, confidence, and ability to think critically under pressure. I also gained a better understanding of how to approach different types of interview questions. Overall, the assignment prepared me for real-life interviews and highlighted areas I can continue to improve, such as reducing filler words and maintaining consistent eye contact. 
-
-## Reflection on the Use of GitHub Pages (STAR Method)
-
-### Situation
-In Module 3 of my GitHub Portfolio project, I was required to create a GitHub account, design my CV using Markdown, and deploy it using GitHub Pages. This was my first time using GitHub Pages to publish content live on the web, and I had limited experience with hosting websites.
-
-### Task
-My task was to successfully deploy my Markdown-based CV as a live website using GitHub Pages. I also uploaded my mock interview video to my repository, although I struggled to embed the video code in my README. I needed to ensure that my portfolio was accessible online, well-structured, and professionally presented.
-
-### Action
-I started by creating and setting up my GitHub repository and ensuring my CV was properly formatted using GitHub Flavored Markdown. I then followed the GitHub Pages setup process to publish my repository as a live site under my username.github.io link. I tested the deployment to make sure everything displayed correctly, including headings, sections, and links. Additionally, I uploaded my mock interview video to the repository and ensured it was accessible.
-
-### Result
-As a result, I successfully published my CV as a live website using GitHub Pages. This experience helped me understand how developers deploy and share projects online. It also improved my technical skills in using GitHub, managing repositories, and presenting my work professionally. I now feel more confident in creating an online portfolio and understand the importance of having a digital presence for future career opportunities.
+- [View Evidence](05-agile-logbook/evidence.md)
+- [Reflection](05-agile-logbook/reflection.md)
