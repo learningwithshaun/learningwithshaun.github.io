@@ -9,7 +9,7 @@
 | **Host employer** | Vic3e Media and Technology Solutions (IT Department) |
 | **Projects** | Zuke Documentation Site · Lulem Digital Signage |
 
-**Source:** Agile Team Charter adapted from the team charter template; placement details from the August and September monthly reports and attendance register.
+
 
 ---
 
