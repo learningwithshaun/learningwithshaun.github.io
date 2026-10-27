@@ -59,32 +59,32 @@ I also supported Vic3e's media work, including filming and editing a Lulem promo
 ## Project Links
 
 - **Zuke Documentation Site:** [docs-staging.zuke.co.za](https://docs-staging.zuke.co.za/)
-- **Product Website:** [zuke.co.za](https://zuke.co.za/)
+- **Product Website:** [zuke.co.za](https://zuke.co.za/)  ``````````````````````````````````````
 
 
 ## Portfolio Sections
 
 ### 1. Agile Team Charter
 
-- [View Evidence](01-agile-team-charter/evidence.md)
-- [Reflection](01-agile-team-charter/reflection.md)
+- [View Evidence](agile_team_charter/evidence.md)
+- [Reflection](agile_team_charter/reflection.md)
 
 ### 2. User Stories and Tasks
 
-- [View Evidence](02-user-stories-and-tasks/evidence.md)
-- [Reflection](02-user-stories-and-tasks/reflection.md)
+- [View Evidence](user_stories_and_tasks/evidence.md)
+- [Reflection](user_stories_and_tasks/reflection.md)
 
 ### 3. Product Backlog
 
-- [View Evidence](03-product-backlog/evidence.md)
-- [Reflection](03-product-backlog/reflection.md)
+- [View Evidence](product_backlog/evidence.md)
+- [Reflection](product_backlog/reflection.md)
 
 ### 4. Sprint Backlog
 
-- [View Evidence](04-sprint-backlog/evidence.md)
-- [Reflection](04-sprint-backlog/reflection.md)
+- [View Evidence](sprint_backlog/evidence.md)
+- [Reflection](sprint_backlog/reflection.md)
 
 ### 5. Agile Logbook
 
-- [View Evidence](05-agile-logbook/evidence.md)
-- [Reflection](05-agile-logbook/reflection.md)
+- [View Evidence](agile_logbook/evidence.md)
+- [Reflection](agile_logbook/reflection.md)
