@@ -53,7 +53,7 @@ I also supported Vic3e's media work, including filming and editing a Lulem promo
 - **Paystack** — Provides the payment QR codes displayed by Lulem.
 - <img src="assets/project-overview/icons/technology/youtube.svg" width="24" height="24" alt="YouTube logo" /> **YouTube** — Supplies the videos played between Lulem's advertising sessions.
 
-<sub>Technology logos sourced from <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://devicon.dev/">Devicon</a>.</sub>
+
 
 
 ## Project Links
